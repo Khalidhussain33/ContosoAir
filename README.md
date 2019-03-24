@@ -1,5 +1,7 @@
 
 
+[![Build Status](https://dev.azure.com/Khalidhamdani/ContosoAir/_apis/build/status/Khalidhussain33.ContosoAir?branchName=master)](https://dev.azure.com/Khalidhamdani/ContosoAir/_build/latest?definitionId=18&branchName=master)
+
 
 # Microsoft.Github CI Demo
 
